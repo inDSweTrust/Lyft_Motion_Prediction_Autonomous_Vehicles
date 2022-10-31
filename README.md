@@ -1,7 +1,7 @@
 # Lyft Motion Prediction for Autonomous Vehicles
 ## Summary
 
-This repository contains code for the [Lyft Motion Prediction for AVs](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles) Kaggle competition.
+This repository contains code for the [Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles) Kaggle competition.
 
 The goal of this competition was to predict the motion of surrounding traffic agents (cars, pedestrians, cyclists) for the next 5 sec. 
 
